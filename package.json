@@ -1,0 +1,19 @@
+{
+  "name": "react-native-slider-dots",
+  "version": "1.0.0",
+  "description": "React Native Animated Slider Dots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpetrew/react-native-slider-dots.git"
+  },
+  "author": "tpetrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpetrew/react-native-slider-dots/issues"
+  },
+  "homepage": "https://github.com/tpetrew/react-native-slider-dots#readme"
+}
